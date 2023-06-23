@@ -26,7 +26,7 @@ public:
     }
 };
 
-c// print the link-list
+// print the link-list
 void print(node *head)
 {
     node *temp = head;
